@@ -1,5 +1,7 @@
 *.o
 narrative
 run_tests
+run_state_tests
 .DS_Store
 *.swp
+*.dSYM/
