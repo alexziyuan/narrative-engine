@@ -1,0 +1,5 @@
+*.o
+narrative
+run_tests
+.DS_Store
+*.swp
