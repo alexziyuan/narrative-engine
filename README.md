@@ -14,3 +14,7 @@ make clean  # remove compiled output
 - `src/` — engine source code
 - `story/nodes/` — story content files
 - `tests/` — test suite
+
+## Status
+
+Infrastructure and core modules in progress. Writing Initial literary content...
