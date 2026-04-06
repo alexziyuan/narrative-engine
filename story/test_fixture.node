@@ -1,0 +1,16 @@
+NODE test_scene
+
+TEXT
+The room is cold. A single chair faces the window.
+END
+
+TEXT
+You remember now. You sat in that chair once, a long time ago.
+END
+
+SECRET hidden_room
+
+CHOICE
+Stand up | chair_scene
+Leave the room | @hub
+END

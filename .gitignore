@@ -3,6 +3,7 @@ narrative
 run_tests
 run_state_tests
 run_input_tests
+run_parser_tests
 .DS_Store
 *.swp
 *.dSYM/

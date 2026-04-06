@@ -1,0 +1,9 @@
+NODE test_prologue
+
+TEXT
+There are things you re-remember without meaning to.
+END
+
+CONTINUE
+Press enter to begin.
+END
